@@ -1,0 +1,36 @@
+5-Day Weather Forecast
+--------------------------------
+Date: 2025-06-01
+Min Temperature: 0.61°C
+Max Temperature: 19.35°C
+Humidity: 65.42%
+Wind Speed: 27.63 km/h
+Wind Direction: NE
+
+Date: 2025-05-02
+Min Temperature: 1.68°C
+Max Temperature: 15.46°C
+Humidity: 82.48%
+Wind Speed: 3.28 km/h
+Wind Direction: SE
+
+Date: 2025-05-03
+Min Temperature: -2.34°C
+Max Temperature: 26.15°C
+Humidity: 36.84%
+Wind Speed: 115.10 km/h
+Wind Direction: SE
+
+Date: 2025-05-04
+Min Temperature: 1.68°C
+Max Temperature: 15.46°C
+Humidity: 82.48%
+Wind Speed: 3.28 km/h
+Wind Direction: SE
+
+Date: 2025-05-05
+Min Temperature: 0.61°C
+Max Temperature: 19.35°C
+Humidity: 65.42%
+Wind Speed: 27.63 km/h
+Wind Direction: NW
